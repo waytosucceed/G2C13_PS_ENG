@@ -1,0 +1,238 @@
+{
+  "heading": "Questions and Answers",
+  "topics": [
+    {
+      "heading": "L and LL words",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Hear the word and choose the correct spelling:",
+          "questionSound": "./assests/sounds/life.mp3",
+          "options": [
+            "Leaf",
+            "Life",
+            "Loaf"
+          ],
+          "answer": 1,
+          "explanation": "The word “Life” is spelt as L-I-F-E."
+        },
+        {
+          "questionNo": 2,
+          "question": "The word \"Hill\" should have only one \"L.\"",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "\"Hill\" has a double \"L.\""
+        },
+        {
+          "questionNo": 3,
+          "question": "Which word has a double \"L\" at the end?",
+          "options": [
+            "Call",
+            "Cup",
+            "Bat",
+            "Dog"
+          ],
+          "answer": 0,
+          "explanation": "\"Call\" has a double \"L\" at the end."
+        },
+        {
+          "questionNo": 4,
+          "question": "Fill in the blank: I saw a __ (Choose the word with one \"L\").",
+          "options": [
+            "ball",
+            "hill",
+            "leaf",
+            "doll"
+          ],
+          "answer": 2,
+          "explanation": "\"Leaf\" has one \"L\" and fits the sentence."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which word has a double \"L\" after a short vowel?",
+          "options": [
+            "Ball",
+            "Car",
+            "Tree",
+            "Sun"
+          ],
+          "answer": 0,
+          "explanation": "\"Ball\" has a double \"L\" after the short vowel \"A.\""
+        },
+        {
+          "questionNo": 6,
+          "question": "The word \"Fall\" should be pronounced with a strong \"L\" sound.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "\"Fall\" ends with a strong \"L\" sound, with double L."
+        },
+        {
+          "questionNo": 7,
+          "question": "Hear the word and find out how many times the letter “L” appeared:",
+          "questionSound": "./assests/sounds/tall.mp3",
+          "image":"./assests/images/tall-boy.png",
+          "options": [
+            "L",
+            "LL"
+          ],
+          "answer": 1,
+          "explanation": "\"Tall\" is pronounced with a strong \"L\" sound at the end."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which word should be pronounced with a soft \"L\" sound?",
+          "options": [
+            "All",
+            "Well",
+            "Doll",
+            "Lamp"
+          ],
+          "answer": 3,
+          "explanation": "\"Lamp\" has a soft \"L\" sound at the beginning."
+        },
+        {
+          "questionNo": 9,
+          "question": "Which word has a double \"L\" in the middle?",
+          "options": [
+            "Apple",
+            "Table",
+            "Balloon",
+            "House"
+          ],
+          "answer": 2,
+          "explanation": "\"Balloon\" has a double \"L\" in the middle."
+        },
+        {
+          "questionNo": 10,
+          "question": "Which word ends with a double \"L\"? (Add the sound of the words in the option)",
+          "options": [
+            "./assests/sounds/small.mp3",
+            "./assests/sounds/feel.mp3",
+            "./assests/sounds/file.mp3"
+          ],
+          "answer": 0,
+          "explanation": "\"Small\" ends with a double \"L.\""
+        },
+        {
+          "questionNo": 11,
+          "question": "The word \"ball\" should have only one \"L.\"",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "The word \"ball\" should have a double \"L.\""
+        },
+        {
+          "questionNo": 12,
+          "question": "Which word has only one \"L\"?",
+          "options": [
+            "Bell",
+            "Tall",
+            "Table",
+            "Hill"
+          ],
+          "answer": 2,
+          "explanation": "\"Table\" has only one \"L.\""
+        },
+        {
+          "questionNo": 13,
+          "question": "Which word is spelled correctly?",
+          "options": [
+            "Mile",
+            "Miel",
+            "Mlie"
+          ],
+          "answer": 0,
+          "explanation": "\"Mile\" is correctly spelt with a single \"L.\" It is a unit to measure distance. For example: My house is 2 miles from here."
+        },
+        {
+          "questionNo": 14,
+          "question": "The word \"will\" is spelt with double \"L.\"",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "\"Will\" is correctly spelt with double \"L.\""
+        },
+        {
+          "questionNo": 15,
+          "question": "Which word has a double \"L\" at the end?",
+          "options": [
+            "Hill",
+            "Cat",
+            "Bed",
+            "Pin"
+          ],
+          "answer": 0,
+          "explanation": "\"Hill\" ends with a double \"L.\""
+        },
+        {
+          "questionNo": 16,
+          "question": "Hear the word and choose the correct spelling: ",
+          "questionSound": "./assests/sounds/feel.mp3",
+          "options": [
+            "File",
+            "Fall",
+            "Feel"
+          ],
+          "answer": 2,
+          "explanation": "The word “Feel” is spelt as F-E-E-L."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which word has only one \"L\"?",
+          "options": [
+            "Fall",
+            "Bell",
+            "Clever",
+            "Doll"
+          ],
+          "answer": 2,
+          "explanation": "The word “Clever” uses only one L."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which word has a double \"L\" in the middle?",
+          "options": [
+            "Yellow",
+            "Leaf",
+            "Balloon",
+            "Both a and c"
+          ],
+          "answer": 3,
+          "explanation": "\"Yellow\" and “Balloon” have a double \"L\" in the middle."
+        },
+        {
+          "questionNo": 19,
+          "question": "The word \"fill\" should be spelled with one \"L.\"",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "\"Fill\" should be spelt with double \"L.\""
+        },
+        {
+          "questionNo": 20,
+          "question": "Which word is spelled with one \"L\"?",
+          "options": [
+            "Call",
+            "Shell",
+            "Wall",
+            "Sail"
+          ],
+          "answer": 3,
+          "explanation": "\"Sail\" is spelt with one \"L.\""
+        }
+      ]
+    }
+  ]
+}
